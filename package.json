@@ -29,12 +29,19 @@
     "bootstrap": ">=4.3.1",
     "cryptiles": "^4.1.2",
     "devicons": "^1.8.0",
-    "jquery": "3.4.0",
-    "lodash": "^4.17.11",
+    "jquery": ">=3.5.1",
+    "lodash": ">=4.17.19",
+    "lodash.template": ">=4.5.0",
     "mixin-deep": "^2.0.0",
     "node-mime": "^1.0.0",
     "simple-line-icons": "^2.4.1",
-    "sshpk": "^1.14.2"
+    "sshpk": "^1.14.2",
+    "qs": ">=6.2.3",
+    "minimist": ">=1.2.3",
+    "set-value": ">=2.0.1",
+    "stringstream": ">=0.0.6",
+    "is-my-json-valid": ">=2.17.2",
+    "clean-css": ">=4.1.11"
   },
   "devDependencies": {
     "browser-sync": "2.23.6",
@@ -45,7 +52,7 @@
     "gulp-sass": "^3.1.0",
     "gulp-uglify": "3.0.0",
     "tar": ">=4.4.2",
-    "lodash": ">=4.17.11",
+    "lodash": ">=4.17.19",
     "extend": ">=3.0.2",
     "randomatic": ">=3.0.0",
     "atob": ">=2.1.0"
